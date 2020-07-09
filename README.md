@@ -10,3 +10,9 @@ Steps to setup
 5. Serve php artisan serve
 6. Test user test@eezy.com allowme@1
 7. Use postman to test https://www.getpostman.com/collections/a217a7d23f03d653ec70
+
+
+# URLS
+1. Authorize: http://your-server/api/authorize/authorize
+2. Push items: http://your-server/api/item-buffer
+3. Get items: http://your-server/api/item-buffer
